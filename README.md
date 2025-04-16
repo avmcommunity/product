@@ -1,1 +1,1 @@
-# product
+this public folder assets
